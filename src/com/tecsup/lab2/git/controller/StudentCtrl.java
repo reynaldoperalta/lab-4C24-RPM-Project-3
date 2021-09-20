@@ -1,5 +1,7 @@
 package com.tecsup.lab2.git.controller;
 
+import java.util.Scanner;
+
 public class StudentCtrl {
   public static void main( String[] args )
     {
@@ -15,7 +17,7 @@ public class StudentCtrl {
 
         suma = n1 + n2;
 
-        System.out.println( "La suma de " + n1 + " más " + n2 + " es " + suma + "." );
+        System.out.println( "La suma de " + n1 + " mas " + n2 + " es " + suma + "." );
     }
 
 }
